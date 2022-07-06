@@ -1,0 +1,4 @@
+.app-flex{display: flex;}
+.app-flex-column{display: flex; flex-direction: column;}
+.app-flex-justify-content{display: flex;justify-content: center;}
+.app-flex-align-items{display: flex;align-items: center;}
